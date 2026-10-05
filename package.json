@@ -1,0 +1,29 @@
+{
+  "name": "safe-tool-runtime",
+  "version": "1.0.0",
+  "description": "Deterministic safety runtime for AI Agent tool calling with RBAC, Risk Matrix & Human-in-the-Loop.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai-agents",
+    "tool-calling",
+    "function-calling",
+    "rbac",
+    "security",
+    "llm",
+    "human-in-the-loop",
+    "guardrails"
+  ],
+  "author": "Nickolas Oliveira",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
