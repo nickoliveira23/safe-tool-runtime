@@ -2,7 +2,7 @@
 
 > Arquitetura de execução determinística com RBAC, Matriz de Risco e Human-in-the-Loop para chamadas de ferramentas (*tool calling*) por agentes de IA.
 
-Repositório de referência para o artigo técnico: **[Tool Calling Seguro: Blindando Sistemas Críticos contra Agentes de IA](https://nickolas.dev/blog/tool-calling-seguro-blindando-sistemas-criticos-contra-agentes-de-ia)**.
+Repositório de referência para o artigo técnico: **[Tool Calling Seguro: Blindando Sistemas Críticos contra Agentes de IA](https://nickolas.dev/blog/tool-calling-seguro)**.
 
 ---
 
